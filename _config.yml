@@ -1,3 +1,4 @@
+layout_spectrum: 0.3894969008397311
 typography_spectrum: 0.8741638408973813
 color:
   brandStrength: 0.2257758171763271
@@ -10,11 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.3894969008397311
 name: FreshStart
-navigation:
-  - name: Google
-    url: 'http://google.com'
-    type: external
-title: What is a fresh start
-description: the workings of a new website
