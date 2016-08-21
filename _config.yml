@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.3894969008397311
 name: FreshStart
+navigation:
+  - name: Google
+    url: 'http://google.com'
+    type: external
 title: What is  fresh start
 description: the workings of a new website
