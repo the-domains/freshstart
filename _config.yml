@@ -1,0 +1,14 @@
+layout_spectrum: 0.3894969008397311
+typography_spectrum: 0.8741638408973813
+color:
+  brandStrength: 0.2257758171763271
+  lightness: 0.8563486689236015
+  saturation: 0.8452782656531781
+  rhythmicContrast: 0.5596921886317432
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+name: FreshStart
